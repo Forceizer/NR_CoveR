@@ -7,7 +7,7 @@ A fork of the Rainmeter skin "NR_CoveR" with added WebNowPlaying support (which 
 License: **Creative Commons Attribution-Non-Commercial-Share Alike 3.0**
 
 
-### Further Credits
+### Credits
 - [Original Skin](https://www.deviantart.com/rabra/art/CoveR-481351911) by [Rabra](https://www.deviantart.com/rabra).
 - Settings window design inspired by [Work Launcher](https://activecolors.deviantart.com/art/Work-Launcher-1-3-420195198) by [ActiveColors](https://activecolors.deviantart.com/).
 - Color chooser [RainRGB4](https://www.deviantart.com/users/outgoing?http://rainmeter.net/forum/viewtopic.php?f=18&t=6215) by [jsmorley](https://jsmorley.deviantart.com/).
